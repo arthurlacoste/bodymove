@@ -10,4 +10,4 @@ header:
 7 min boxe FromHumantoGod
 Montée de la Bastille
 
-https://www.youtube.com/watch?v=0OIsRkDRAi0
+{% include video id="0OIsRkDRAi0" provider="youtube" %}
